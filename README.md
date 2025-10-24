@@ -1,2 +1,1 @@
-# Comicklist2
-comicklist2
+# github.portfoloi
